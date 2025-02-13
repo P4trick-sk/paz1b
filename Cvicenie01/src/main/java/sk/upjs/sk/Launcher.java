@@ -14,6 +14,6 @@ public class Launcher {
 		oi.inspect(franklin);
 		oi.inspect(sandbox);
 
-		franklin.krizikBezUrovne(75);
+		franklin.kruhVKruhu(4, 50);
 	}
 }
