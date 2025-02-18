@@ -10,7 +10,9 @@
 	<name>PAZ1b</name>
 	<modules>
 		<module>Cvicenie01</module>
-	</modules>
+		<module>Zadanie01</module>
+        <module>Cvicenie02</module>
+    </modules>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
