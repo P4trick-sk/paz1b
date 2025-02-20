@@ -4,21 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 1 - 13.2.2025 - rekurzívne volania, pridanie CallTree">
-      <change afterPath="$PROJECT_DIR$/Cvicenie02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/Cvicenie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/SmartTurtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/TriediaciAlgoritmus.java" afterDir="false" />
+    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 2 - 18.2.2025 - triedenie">
+      <change afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/SelectionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Zadanie01/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/Ammann.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/Fraktalka.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/PoloveAlgoritmy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/TriediaciAlgoritmus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/TriediaciAlgoritmus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +54,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.Launcher (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Launcher (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Launcher (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
     &quot;Application.Maximum.executor&quot;: &quot;Run&quot;,
@@ -176,6 +172,8 @@
       <workItem from="1739790361595" duration="2767000" />
       <workItem from="1739862175145" duration="5069000" />
       <workItem from="1739891603965" duration="27000" />
+      <workItem from="1739907992409" duration="1107000" />
+      <workItem from="1740045138868" duration="2081000" />
     </task>
     <task id="LOCAL-00001" summary="Cvičenie 11.2.2025 - fraktály">
       <option name="closed" value="true" />
@@ -193,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739444930687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cvičenie 2 - 18.2.2025 - triedenie">
+      <option name="closed" value="true" />
+      <created>1739908070843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739908070843</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,15 +208,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cvičenie 11.2.2025 - fraktály" />
     <MESSAGE value="Cvičenie 1 - 13.2.2025 - rekurzívne volania, pridanie CallTree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 1 - 13.2.2025 - rekurzívne volania, pridanie CallTree" />
+    <MESSAGE value="Cvičenie 2 - 18.2.2025 - triedenie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 2 - 18.2.2025 - triedenie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/PoloveAlgoritmy.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/Launcher.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

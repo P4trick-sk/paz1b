@@ -9,12 +9,16 @@ public abstract class TriediaciAlgoritmus {
      */
     private int[] p;
 
+    private int pocetVymen = 0;
+    private int pocetPorovnani = 0;
+
     /**
      * Porovna prvky v poli na zadanych indexoch
      *
      * @return vrati zaporne cislo, ak p[idx1] < p[idx2], * 0, ak p[idx1]==p[idx2], a * kladne cislo, ak p[idx1] > p[idx2]
      */
     protected int porovnaj(int idx1, int idx2) {
+        pocetPorovnani++;
         return Integer.compare(p[idx1], p[idx2]);
 
         /*
@@ -28,6 +32,7 @@ public abstract class TriediaciAlgoritmus {
      * Vymeni prvky v usporiadavanom poli na zadanych indexoch
      */
     protected void vymen(int idx1, int idx2) {
+        pocetVymen++;
         int pom = p[idx1];
         p[idx1] = p[idx2];
         p[idx2] = pom;
@@ -49,6 +54,10 @@ public abstract class TriediaciAlgoritmus {
     public void utried(int[] p) {
         this.p = p;
         utried(p.length);
+        System.out.println("Pocet porovnani: " + pocetPorovnani);
+        System.out.println("Pocet vymen: " + pocetVymen);
+        pocetPorovnani = 0;
+        pocetVymen = 0;
         this.p = null;
     }
 

@@ -11,7 +11,8 @@ public class Launcher {
 		//WinPane sandbox = new WinPane();
 
 		int p[] = {1, 5, 8, 9, 10, 11, 4, 7, 0, 6};
-		BubbleSort sort = new BubbleSort();
+		//BubbleSort sort = new BubbleSort();
+		SelectionSort sort = new SelectionSort();
 		sort.utried(p);
 		//System.out.println(Cvicenie.binarneHladajIndex(p, 10));
 		System.out.println(Arrays.toString(p));
