@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 2 - 18.2.2025 - triedenie">
-      <change afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/SelectionSort.java" afterDir="false" />
+    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 2 - 20.2.2025 - zložitosť">
       <change afterPath="$PROJECT_DIR$/Zadanie01/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/Ammann.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/Fraktalka.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/MikyPolia.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/PoloveAlgoritmy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/TriediaciAlgoritmus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cvicenie02/src/main/java/sk/upjs/sk/TriediaciAlgoritmus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,29 +49,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Launcher (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Launcher (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maximum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sucty.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestFibonacciho.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Launcher (1).executor": "Run",
+    "Application.Launcher (2).executor": "Run",
+    "Application.Launcher.executor": "Run",
+    "Application.Maximum.executor": "Run",
+    "Application.MikyPolia.executor": "Run",
+    "Application.Sucty.executor": "Run",
+    "Application.TestFibonacciho.executor": "Run",
+    "Application.Zlozitost.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Launcher (2)">
+}]]></component>
+  <component name="RunManager" selected="Application.Launcher (1)">
     <configuration name="Launcher (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Launcher" />
       <module name="Zadanie01" />
@@ -114,9 +113,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sucty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Sucty" />
-      <module name="Cvicenie01" />
+    <configuration name="MikyPolia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.MikyPolia" />
+      <module name="Zadanie01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sk.upjs.sk.*" />
@@ -127,9 +126,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFibonacciho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.TestFibonacciho" />
-      <module name="Cvicenie01" />
+    <configuration name="Zlozitost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Zlozitost" />
+      <module name="Cvicenie02" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sk.upjs.sk.*" />
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Launcher (2)" />
         <item itemvalue="Application.Launcher (1)" />
+        <item itemvalue="Application.MikyPolia" />
+        <item itemvalue="Application.Zlozitost" />
+        <item itemvalue="Application.Launcher (2)" />
         <item itemvalue="Application.Maximum" />
-        <item itemvalue="Application.Sucty" />
-        <item itemvalue="Application.TestFibonacciho" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +172,9 @@
       <workItem from="1739862175145" duration="5069000" />
       <workItem from="1739891603965" duration="27000" />
       <workItem from="1739907992409" duration="1107000" />
-      <workItem from="1740045138868" duration="2081000" />
+      <workItem from="1740045138868" duration="3954000" />
+      <workItem from="1740137198213" duration="4216000" />
+      <workItem from="1740300901715" duration="6198000" />
     </task>
     <task id="LOCAL-00001" summary="Cvičenie 11.2.2025 - fraktály">
       <option name="closed" value="true" />
@@ -199,7 +200,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739908070843</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cvičenie 2 - 20.2.2025 - vylepšený BubbleSort, pridanie SelectionSort">
+      <option name="closed" value="true" />
+      <created>1740047380064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740047380064</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cvičenie 2 - 20.2.2025 - zložitosť">
+      <option name="closed" value="true" />
+      <created>1740050260536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740050260536</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,17 +226,8 @@
     <MESSAGE value="Cvičenie 11.2.2025 - fraktály" />
     <MESSAGE value="Cvičenie 1 - 13.2.2025 - rekurzívne volania, pridanie CallTree" />
     <MESSAGE value="Cvičenie 2 - 18.2.2025 - triedenie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 2 - 18.2.2025 - triedenie" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Zadanie01/src/main/java/sk/upjs/sk/Launcher.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Cvičenie 2 - 20.2.2025 - vylepšený BubbleSort, pridanie SelectionSort" />
+    <MESSAGE value="Cvičenie 2 - 20.2.2025 - zložitosť" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 2 - 20.2.2025 - zložitosť" />
   </component>
 </project>
