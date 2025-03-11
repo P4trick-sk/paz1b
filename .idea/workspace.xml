@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Zadanie 2 - zložitosť, two sum, selection sort">
-      <change afterPath="$PROJECT_DIR$/Cvicenie04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cvicenie04/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cvicenie04/src/main/java/sk/upjs/sk/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cvicenie04/src/main/java/sk/upjs/sk/Uzol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie03/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie03/src/main/java/sk/upjs/sk/SpajanyZoznam.java" afterDir="false" />
+    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 04 - 4.3.2024">
+      <change afterPath="$PROJECT_DIR$/Cvicenie05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/TriediaciAlgoritmus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -52,40 +49,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AdamSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Launcher (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Launcher (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maximum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MikyPolia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpajanyZoznam.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sucty.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestFibonacciho.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Zatvorky.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Zlozitost.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/patrick_sk/IdeaProjects/PAZ1b/Cvicenie03/src/main/java/sk/upjs/sk&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdamSort.executor": "Run",
+    "Application.Launcher (1).executor": "Run",
+    "Application.Launcher (2).executor": "Run",
+    "Application.Launcher.executor": "Run",
+    "Application.Maximum.executor": "Run",
+    "Application.MikyPolia.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.SpajanyZoznam.executor": "Run",
+    "Application.Sucty.executor": "Run",
+    "Application.TestFibonacciho.executor": "Run",
+    "Application.Zatvorky.executor": "Debug",
+    "Application.Zlozitost.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/patrick_sk/IdeaProjects/PAZ1b/Cvicenie03/src/main/java/sk/upjs/sk",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Cvicenie03/src/main/java/sk/upjs/sk" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpajanyZoznam">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="AdamSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.AdamSort" />
       <module name="Zadanie02" />
@@ -112,9 +110,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Launcher" />
-      <module name="Cvicenie03" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.QuickSort" />
+      <module name="Cvicenie05" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sk.upjs.sk.*" />
@@ -153,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SpajanyZoznam" />
         <item itemvalue="Application.Launcher (2)" />
         <item itemvalue="Application.AdamSort" />
         <item itemvalue="Application.Zatvorky" />
-        <item itemvalue="Application.Launcher" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +191,7 @@
       <workItem from="1740861656614" duration="6994000" />
       <workItem from="1741075588885" duration="2604000" />
       <workItem from="1741254762661" duration="1313000" />
+      <workItem from="1741681481816" duration="2769000" />
     </task>
     <task id="LOCAL-00001" summary="Cvičenie 11.2.2025 - fraktály">
       <option name="closed" value="true" />
@@ -258,7 +257,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740871334331</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Zadanie 3 - spájaný zoznam, odstráň záporný, vlož usporiadane">
+      <option name="closed" value="true" />
+      <created>1741678073496</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741678073496</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Cvičenie 04 - 4.3.2024">
+      <option name="closed" value="true" />
+      <created>1741678139851</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741678139851</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +288,19 @@
     <MESSAGE value="Zadanie 1 - rekurzia" />
     <MESSAGE value="Cvičenie 03 - 27.2.2025 - linked list, kontrola zátvoriek, zásobníka, radu" />
     <MESSAGE value="Zadanie 2 - zložitosť, two sum, selection sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 2 - zložitosť, two sum, selection sort" />
+    <MESSAGE value="Zadanie 3 - spájaný zoznam, odstráň záporný, vlož usporiadane" />
+    <MESSAGE value="Cvičenie 04 - 4.3.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 04 - 4.3.2024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/QuickSort.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
