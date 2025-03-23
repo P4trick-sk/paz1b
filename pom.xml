@@ -17,6 +17,9 @@
         <module>Cvicenie04</module>
         <module>Zadanie03</module>
         <module>Cvicenie05</module>
+		<module>Zadanie04-2</module>
+        <module>Cvicenie06</module>
+        <module>Zadanie05</module>
     </modules>
 
 	<properties>
