@@ -1,0 +1,1015 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"MavenProjectsManager\">\n    <option name=\"originalFiles\">\n      <list>\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_23\" default=\"true\" project-jdk-name=\"openjdk-23\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/out\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision ddcb05b7fa4f2fb01817c700092285476f0f2401)
++++ b/.idea/misc.xml	(date 1741863664691)
+@@ -7,6 +7,11 @@
+         <option value="$PROJECT_DIR$/pom.xml" />
+       </list>
+     </option>
++    <option name="ignoredFiles">
++      <set>
++        <option value="$PROJECT_DIR$/Zadanie04/pom.xml" />
++      </set>
++    </option>
+   </component>
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"08196f2e-81e3-4796-a50b-3de0d25e0c70\" name=\"Changes\" comment=\"Cvičenie 04 - 4.3.2024\">\n      <change afterPath=\"$PROJECT_DIR$/Cvicenie05/pom.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/Launcher.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/QuickSort.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/TriediaciAlgoritmus.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/encodings.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;P4trick-sk&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/P4trick-sk/paz1b.git&quot;,\n    &quot;accountId&quot;: &quot;5a64b3aa-5b06-40a1-839a-6d71091e1287&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2ssytR2Zu538BkV4IY8gRn7bPVD\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.AdamSort.executor\": \"Run\",\n    \"Application.Launcher (1).executor\": \"Run\",\n    \"Application.Launcher (2).executor\": \"Run\",\n    \"Application.Launcher.executor\": \"Run\",\n    \"Application.Maximum.executor\": \"Run\",\n    \"Application.MikyPolia.executor\": \"Run\",\n    \"Application.QuickSort.executor\": \"Run\",\n    \"Application.SpajanyZoznam.executor\": \"Run\",\n    \"Application.Sucty.executor\": \"Run\",\n    \"Application.TestFibonacciho.executor\": \"Run\",\n    \"Application.Zatvorky.executor\": \"Debug\",\n    \"Application.Zlozitost.executor\": \"Run\",\n    \"Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"/home/patrick_sk/IdeaProjects/PAZ1b/Cvicenie03/src/main/java/sk/upjs/sk\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/Cvicenie03/src/main/java/sk/upjs/sk\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Application.QuickSort\">\n    <configuration name=\"AdamSort\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"sk.upjs.sk.AdamSort\" />\n      <module name=\"Zadanie02\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"sk.upjs.sk.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Launcher (2)\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"sk.upjs.sk.Launcher\" />\n      <module name=\"Zadanie02\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"sk.upjs.sk.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"QuickSort\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"sk.upjs.sk.QuickSort\" />\n      <module name=\"Cvicenie05\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"sk.upjs.sk.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"SpajanyZoznam\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"sk.upjs.sk.SpajanyZoznam\" />\n      <module name=\"Zadanie03\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"sk.upjs.sk.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Zatvorky\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"sk.upjs.sk.Zatvorky\" />\n      <module name=\"Cvicenie03\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"sk.upjs.sk.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.QuickSort\" />\n        <item itemvalue=\"Application.SpajanyZoznam\" />\n        <item itemvalue=\"Application.Launcher (2)\" />\n        <item itemvalue=\"Application.AdamSort\" />\n        <item itemvalue=\"Application.Zatvorky\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11\" />\n        <option value=\"bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"08196f2e-81e3-4796-a50b-3de0d25e0c70\" name=\"Changes\" comment=\"\" />\n      <created>1739258794576</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1739258794576</updated>\n      <workItem from=\"1739258795970\" duration=\"3277000\" />\n      <workItem from=\"1739262354716\" duration=\"253000\" />\n      <workItem from=\"1739440114901\" duration=\"4926000\" />\n      <workItem from=\"1739790361595\" duration=\"2767000\" />\n      <workItem from=\"1739862175145\" duration=\"5069000\" />\n      <workItem from=\"1739891603965\" duration=\"27000\" />\n      <workItem from=\"1739907992409\" duration=\"1107000\" />\n      <workItem from=\"1740045138868\" duration=\"3954000\" />\n      <workItem from=\"1740137198213\" duration=\"4216000\" />\n      <workItem from=\"1740300901715\" duration=\"6922000\" />\n      <workItem from=\"1740422908676\" duration=\"2156000\" />\n      <workItem from=\"1740649822925\" duration=\"5000000\" />\n      <workItem from=\"1740657986808\" duration=\"7997000\" />\n      <workItem from=\"1740861656614\" duration=\"6994000\" />\n      <workItem from=\"1741075588885\" duration=\"2604000\" />\n      <workItem from=\"1741254762661\" duration=\"1313000\" />\n      <workItem from=\"1741681481816\" duration=\"2769000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Cvičenie 11.2.2025 - fraktály\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739261737594</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739261737594</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Cvičenie 1 - 13.2.2025 - rekurzívne volania, pridanie CallTree\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739444930687</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739444930687</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Cvičenie 2 - 18.2.2025 - triedenie\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739908070843</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739908070843</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Cvičenie 2 - 20.2.2025 - vylepšený BubbleSort, pridanie SelectionSort\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1740047380064</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1740047380064</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Cvičenie 2 - 20.2.2025 - zložitosť\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1740050260536</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1740050260536</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Zadanie 1 - rekurzia\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1740330139561</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1740330139561</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Cvičenie 03 - 27.2.2025 - linked list, kontrola zátvoriek, zásobníka, radu\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1740658359821</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1740658359821</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Zadanie 2 - zložitosť, two sum, selection sort\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1740871334330</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1740871334331</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Zadanie 3 - spájaný zoznam, odstráň záporný, vlož usporiadane\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1741678073496</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1741678073496</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Cvičenie 04 - 4.3.2024\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1741678139851</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1741678139851</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"11\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Cvičenie 11.2.2025 - fraktály\" />\n    <MESSAGE value=\"Cvičenie 1 - 13.2.2025 - rekurzívne volania, pridanie CallTree\" />\n    <MESSAGE value=\"Cvičenie 2 - 18.2.2025 - triedenie\" />\n    <MESSAGE value=\"Cvičenie 2 - 20.2.2025 - vylepšený BubbleSort, pridanie SelectionSort\" />\n    <MESSAGE value=\"Cvičenie 2 - 20.2.2025 - zložitosť\" />\n    <MESSAGE value=\"Zadanie 1 - rekurzia\" />\n    <MESSAGE value=\"Cvičenie 03 - 27.2.2025 - linked list, kontrola zátvoriek, zásobníka, radu\" />\n    <MESSAGE value=\"Zadanie 2 - zložitosť, two sum, selection sort\" />\n    <MESSAGE value=\"Zadanie 3 - spájaný zoznam, odstráň záporný, vlož usporiadane\" />\n    <MESSAGE value=\"Cvičenie 04 - 4.3.2024\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Cvičenie 04 - 4.3.2024\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/QuickSort.java</url>\n          <line>39</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ddcb05b7fa4f2fb01817c700092285476f0f2401)
++++ b/.idea/workspace.xml	(date 1742748283732)
+@@ -4,12 +4,23 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 04 - 4.3.2024">
+-      <change afterPath="$PROJECT_DIR$/Cvicenie05/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/QuickSort.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/TriediaciAlgoritmus.java" afterDir="false" />
++    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 05 - 11.3.2024 - QuickSort implementácia">
++      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/Strom.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Cvicenie06/pom.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Cvicenie06/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Cvicenie06/src/main/java/sk/upjs/sk/NepriatelskeCisla.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Cvicenie06/src/main/java/sk/upjs/sk/RozdelenieLupu.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Zadanie04-2/pom.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Zadanie04-2/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Zadanie04-2/src/main/java/sk/upjs/sk/Osoba.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Zadanie04-2/src/main/java/sk/upjs/sk/Uzol.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Zadanie05/pom.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Zadanie05/src/main/java/sk/upjs/sk/AnalyzatorSkenu.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Zadanie05/src/main/java/sk/upjs/sk/Kontrapriklady.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Zadanie05/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+     </list>
+@@ -52,15 +63,23 @@
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+     "Application.AdamSort.executor": "Run",
++    "Application.AnalyzatorBuniek.executor": "Run",
++    "Application.CipherDifferentiation.executor": "Run",
++    "Application.CipherDifferentiationOneDigit.executor": "Run",
++    "Application.ContradictionFinder.executor": "Run",
+     "Application.Launcher (1).executor": "Run",
+     "Application.Launcher (2).executor": "Run",
+     "Application.Launcher.executor": "Run",
+     "Application.Maximum.executor": "Run",
+     "Application.MikyPolia.executor": "Run",
++    "Application.NepriatelskeCisla.executor": "Run",
++    "Application.Osoba.executor": "Run",
+     "Application.QuickSort.executor": "Run",
+     "Application.SpajanyZoznam.executor": "Run",
++    "Application.Strom.executor": "Run",
+     "Application.Sucty.executor": "Run",
+     "Application.TestFibonacciho.executor": "Run",
++    "Application.Uzol.executor": "Run",
+     "Application.Zatvorky.executor": "Debug",
+     "Application.Zlozitost.executor": "Run",
+     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+@@ -81,12 +100,15 @@
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/Cvicenie03/src/main/java/sk/upjs/sk" />
++    </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/Zadanie04-2/src/main/java/sk/upjs/sk" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.QuickSort">
+-    <configuration name="AdamSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.AdamSort" />
+-      <module name="Zadanie02" />
++  <component name="RunManager" selected="Application.Kontrapriklady">
++    <configuration name="AnalyzatorBuniek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.AnalyzatorBuniek" />
++      <module name="Zadanie05" />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="sk.upjs.sk.*" />
+@@ -97,9 +119,9 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Launcher (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Launcher" />
+-      <module name="Zadanie02" />
++    <configuration name="CipherDifferentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.CipherDifferentiation" />
++      <module name="Zadanie05" />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="sk.upjs.sk.*" />
+@@ -110,9 +132,9 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.QuickSort" />
+-      <module name="Cvicenie05" />
++    <configuration name="ContradictionFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.ContradictionFinder" />
++      <module name="Zadanie05" />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="sk.upjs.sk.*" />
+@@ -123,9 +145,9 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="SpajanyZoznam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.SpajanyZoznam" />
+-      <module name="Zadanie03" />
++    <configuration name="Kontrapriklady" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Kontrapriklady" />
++      <module name="Zadanie05" />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="sk.upjs.sk.*" />
+@@ -136,9 +158,9 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Zatvorky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Zatvorky" />
+-      <module name="Cvicenie03" />
++    <configuration name="NepriatelskeCisla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.NepriatelskeCisla" />
++      <module name="Cvicenie06" />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="sk.upjs.sk.*" />
+@@ -151,11 +173,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.QuickSort" />
+-        <item itemvalue="Application.SpajanyZoznam" />
+-        <item itemvalue="Application.Launcher (2)" />
+-        <item itemvalue="Application.AdamSort" />
+-        <item itemvalue="Application.Zatvorky" />
++        <item itemvalue="Application.Kontrapriklady" />
++        <item itemvalue="Application.CipherDifferentiation" />
++        <item itemvalue="Application.ContradictionFinder" />
++        <item itemvalue="Application.AnalyzatorBuniek" />
++        <item itemvalue="Application.NepriatelskeCisla" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -191,7 +213,12 @@
+       <workItem from="1740861656614" duration="6994000" />
+       <workItem from="1741075588885" duration="2604000" />
+       <workItem from="1741254762661" duration="1313000" />
+-      <workItem from="1741681481816" duration="2769000" />
++      <workItem from="1741681481816" duration="3632000" />
++      <workItem from="1741859850849" duration="3732000" />
++      <workItem from="1741868763563" duration="5946000" />
++      <workItem from="1742115300747" duration="3126000" />
++      <workItem from="1742464255793" duration="3788000" />
++      <workItem from="1742740325614" duration="6195000" />
+     </task>
+     <task id="LOCAL-00001" summary="Cvičenie 11.2.2025 - fraktály">
+       <option name="closed" value="true" />
+@@ -273,7 +300,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1741678139851</updated>
+     </task>
+-    <option name="localTasksCounter" value="11" />
++    <task id="LOCAL-00011" summary="Cvičenie 05 - 11.3.2024 - QuickSort implementácia">
++      <option name="closed" value="true" />
++      <created>1741681223917</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1741681223917</updated>
++    </task>
++    <option name="localTasksCounter" value="12" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -290,7 +325,8 @@
+     <MESSAGE value="Zadanie 2 - zložitosť, two sum, selection sort" />
+     <MESSAGE value="Zadanie 3 - spájaný zoznam, odstráň záporný, vlož usporiadane" />
+     <MESSAGE value="Cvičenie 04 - 4.3.2024" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 04 - 4.3.2024" />
++    <MESSAGE value="Cvičenie 05 - 11.3.2024 - QuickSort implementácia" />
++    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 05 - 11.3.2024 - QuickSort implementácia" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+@@ -299,6 +335,11 @@
+           <url>file://$PROJECT_DIR$/Cvicenie05/src/main/java/sk/upjs/sk/QuickSort.java</url>
+           <line>39</line>
+           <option name="timeStamp" value="1" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/Zadanie04-2/src/main/java/sk/upjs/sk/Uzol.java</url>
++          <line>103</line>
++          <option name="timeStamp" value="2" />
+         </line-breakpoint>
+       </breakpoints>
+     </breakpoint-manager>
+Index: Cvicenie06/src/main/java/sk/upjs/sk/Launcher.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Cvicenie06/src/main/java/sk/upjs/sk/Launcher.java b/Cvicenie06/src/main/java/sk/upjs/sk/Launcher.java
+new file mode 100644
+--- /dev/null	(date 1742465362640)
++++ b/Cvicenie06/src/main/java/sk/upjs/sk/Launcher.java	(date 1742465362640)
+@@ -0,0 +1,11 @@
++package sk.upjs.sk;
++
++import sk.upjs.jpaz2.*;
++
++public class Launcher {
++
++	public static void main(String[] args) {
++		// put your code here
++
++	}
++}
+\ No newline at end of file
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><project xmlns=\"http://maven.apache.org/POM/4.0.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n\txsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd\">\n\t<modelVersion>4.0.0</modelVersion>\n\n\t<groupId>sk.upjs.sk</groupId>\n\t<artifactId>PAZ1b</artifactId>\n\t<version>1.0-SNAPSHOT</version>\n\t<packaging>pom</packaging>\n\n\t<name>PAZ1b</name>\n\t<modules>\n\t\t<module>Cvicenie01</module>\n\t\t<module>Zadanie01</module>\n        <module>Cvicenie02</module>\n        <module>Cvicenie03</module>\n        <module>Zadanie02</module>\n        <module>Cvicenie04</module>\n        <module>Zadanie03</module>\n        <module>Cvicenie05</module>\n    </modules>\n\n\t<properties>\n\t\t<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>\n\t\t<maven.compiler.source>1.8</maven.compiler.source>\n\t\t<maven.compiler.target>1.8</maven.compiler.target>\n\t\t<exec.mainClass>sk.upjs.sk.Launcher</exec.mainClass>\n\t</properties>\n\n\t<dependencies>\n\t\t<dependency>\n\t\t\t<groupId>sk.upjs</groupId>\n\t\t\t<artifactId>jpaz2</artifactId>\n\t\t\t<version>1.1.1</version>\n\t\t</dependency>\n\t</dependencies>\n\n\t<build>\n\t\t<plugins>\n\t\t\t<plugin>\n\t\t\t\t<groupId>org.apache.maven.plugins</groupId>\n\t\t\t\t<artifactId>maven-shade-plugin</artifactId>\n\t\t\t\t<version>3.0.0</version>\n\t\t\t\t<configuration>\n\t\t\t\t\t<filters>\n\t\t\t\t\t\t<filter>\n\t\t\t\t\t\t\t<artifact>*:*</artifact>\n\t\t\t\t\t\t\t<excludes>\n\t\t\t\t\t\t\t\t<exclude>META-INF/*.SF</exclude>\n\t\t\t\t\t\t\t\t<exclude>META-INF/*.DSA</exclude>\n\t\t\t\t\t\t\t\t<exclude>META-INF/*.RSA</exclude>\n\t\t\t\t\t\t\t</excludes>\n\t\t\t\t\t\t</filter>\n\t\t\t\t\t</filters>\n\t\t\t\t</configuration>\n\t\t\t\t<executions>\n\t\t\t\t\t<execution>\n\t\t\t\t\t\t<phase>package</phase>\n\t\t\t\t\t\t<goals>\n\t\t\t\t\t\t\t<goal>shade</goal>\n\t\t\t\t\t\t</goals>\n\t\t\t\t\t\t<configuration>\n\t\t\t\t\t\t\t<transformers>\n\t\t\t\t\t\t\t\t<transformer\n\t\t\t\t\t\t\t\t\timplementation=\"org.apache.maven.plugins.shade.resource.ManifestResourceTransformer\">\n\t\t\t\t\t\t\t\t\t<mainClass>${exec.mainClass}</mainClass>\n\t\t\t\t\t\t\t\t</transformer>\n\t\t\t\t\t\t\t</transformers>\n\t\t\t\t\t\t\t<minimizeJar>true</minimizeJar>\n\t\t\t\t\t\t\t<finalName>PAZ1b</finalName>\n\t\t\t\t\t\t</configuration>\n\t\t\t\t\t</execution>\n\t\t\t\t</executions>\n\t\t\t</plugin>\n\t\t</plugins>\n\t</build>\n\n\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pom.xml b/pom.xml
+--- a/pom.xml	(revision ddcb05b7fa4f2fb01817c700092285476f0f2401)
++++ b/pom.xml	(date 1742740539008)
+@@ -17,6 +17,9 @@
+         <module>Cvicenie04</module>
+         <module>Zadanie03</module>
+         <module>Cvicenie05</module>
++		<module>Zadanie04-2</module>
++        <module>Cvicenie06</module>
++        <module>Zadanie05</module>
+     </modules>
+ 
+ 	<properties>
+Index: Cvicenie05/src/main/java/sk/upjs/sk/Strom.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Cvicenie05/src/main/java/sk/upjs/sk/Strom.java b/Cvicenie05/src/main/java/sk/upjs/sk/Strom.java
+new file mode 100644
+--- /dev/null	(date 1741862037405)
++++ b/Cvicenie05/src/main/java/sk/upjs/sk/Strom.java	(date 1741862037405)
+@@ -0,0 +1,43 @@
++package sk.upjs.sk;
++
++public class Strom {
++
++    public static int hodnotaVStrome(int[] pole, String cesta){
++        cesta = cesta.toLowerCase();
++        int idx = 0;
++
++        for (int i = 0; i < cesta.length(); i++) {
++            if(cesta.charAt(i) == 'l'){
++                idx = idx*2+1;
++            }
++            else if(cesta.charAt(i) == 'r') {
++                idx = idx*2+2;
++            }
++        }
++
++        if (idx > pole.length)
++            throw new IndexOutOfBoundsException("neplatná cesta");
++
++        return pole[idx];
++    }
++
++    public static boolean jeHaldou(int[] pole) {
++        for (int i = 0; i < pole.length; i++) {
++            if (i*2+1 < pole.length && pole[i*2+1] > pole[i])
++                return false;
++            if (i*2+2 < pole.length && pole[i*2+2] > pole[i])
++                return false;
++        }
++
++        return true;
++    }
++
++
++    public static void main(String[] args) {
++        int p[] = {9,5,13,3,6,10,15,1,4,2};
++        int p2[] = {15, 10, 11, 4, 5, 6, 4};
++
++        //System.out.println(hodnotaVStrome(p, "RLLLL"));
++        System.out.println(jeHaldou(p2));
++    }
++}
+Index: Zadanie04-2/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Zadanie04-2/pom.xml b/Zadanie04-2/pom.xml
+new file mode 100644
+--- /dev/null	(date 1741863731653)
++++ b/Zadanie04-2/pom.xml	(date 1741863731653)
+@@ -0,0 +1,71 @@
++<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
++    <modelVersion>4.0.0</modelVersion>
++    <parent>
++        <groupId>sk.upjs.sk</groupId>
++        <artifactId>PAZ1b</artifactId>
++        <version>1.0-SNAPSHOT</version>
++    </parent>
++
++    <artifactId>Zadanie04-2</artifactId>
++    <packaging>jar</packaging>
++
++    <name>Zadanie04-2</name>
++
++    <properties>
++        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
++        <maven.compiler.source>1.8</maven.compiler.source>
++        <maven.compiler.target>1.8</maven.compiler.target>
++        <exec.mainClass>sk.upjs.sk.Launcher</exec.mainClass>
++    </properties>
++
++    <dependencies>
++        <dependency>
++            <groupId>sk.upjs</groupId>
++            <artifactId>jpaz2</artifactId>
++            <version>1.1.1</version>
++        </dependency>
++    </dependencies>
++
++    <build>
++        <plugins>
++            <plugin>
++                <groupId>org.apache.maven.plugins</groupId>
++                <artifactId>maven-shade-plugin</artifactId>
++                <version>3.0.0</version>
++                <configuration>
++                    <filters>
++                        <filter>
++                            <artifact>*:*</artifact>
++                            <excludes>
++                                <exclude>META-INF/*.SF</exclude>
++                                <exclude>META-INF/*.DSA</exclude>
++                                <exclude>META-INF/*.RSA</exclude>
++                            </excludes>
++                        </filter>
++                    </filters>
++                </configuration>
++                <executions>
++                    <execution>
++                        <phase>package</phase>
++                        <goals>
++                            <goal>shade</goal>
++                        </goals>
++                        <configuration>
++                            <transformers>
++                                <transformer
++                                        implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
++                                    <mainClass>${exec.mainClass}</mainClass>
++                                </transformer>
++                            </transformers>
++                            <minimizeJar>true</minimizeJar>
++                            <finalName>Zadanie04-2</finalName>
++                        </configuration>
++                    </execution>
++                </executions>
++            </plugin>
++        </plugins>
++    </build>
++
++
++</project>
+\ No newline at end of file
+Index: Cvicenie06/src/main/java/sk/upjs/sk/RozdelenieLupu.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Cvicenie06/src/main/java/sk/upjs/sk/RozdelenieLupu.java b/Cvicenie06/src/main/java/sk/upjs/sk/RozdelenieLupu.java
+new file mode 100644
+--- /dev/null	(date 1742465403072)
++++ b/Cvicenie06/src/main/java/sk/upjs/sk/RozdelenieLupu.java	(date 1742465403072)
+@@ -0,0 +1,62 @@
++package sk.upjs.sk;
++
++import java.util.Arrays;
++
++public class RozdelenieLupu {
++
++    private int[] predmety;
++    private int[] p;
++
++    private int najmensiRozdiel;
++    private int[] najlepsieRozdelenie;
++
++    public RozdelenieLupu(int[] predmety) {
++        this.predmety = predmety;
++        this.p = new int[predmety.length];
++        this.najmensiRozdiel = Integer.MAX_VALUE;
++    }
++
++    private void spracuj() {
++        int zlodej0 = 0, zlodej1 = 0;
++        for (int i = 0; i < p.length; i++) {
++            if (p[i] == 0) {
++                zlodej0 += predmety[i];
++            } else {
++                zlodej1 += predmety[i];
++            }
++        }
++        System.out.println(Arrays.toString(p) + " " + zlodej0 + ":" + zlodej1);
++
++        if (Math.abs(zlodej0 - zlodej1) < najmensiRozdiel) {
++            najlepsieRozdelenie = p.clone();
++            najmensiRozdiel = Math.abs(zlodej0 - zlodej1);
++        }
++    }
++
++    private void generuj(int odIdx) {
++        if (odIdx == p.length) {
++            spracuj();
++            return;
++        }
++
++        for (int i = 0; i <= 1; i++) {
++            p[odIdx] = i;
++            generuj(odIdx + 1);
++        }
++    }
++
++    public void generuj() {
++        generuj(0);
++        System.out.println("Najlepsie rozdelenie: " + Arrays.toString(najlepsieRozdelenie) + " -> " + najmensiRozdiel);
++    }
++
++    public static void main(String[] args) {
++        int[] predmety = new int[4];
++        for (int i = 0; i < predmety.length; i++) {
++            predmety[i] = (int) (Math.random() * 8) + 2;
++        }
++        System.out.println(Arrays.toString(predmety));
++        RozdelenieLupu lupici = new RozdelenieLupu(predmety);
++        lupici.generuj();
++    }
++}
+Index: Cvicenie06/src/main/java/sk/upjs/sk/NepriatelskeCisla.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Cvicenie06/src/main/java/sk/upjs/sk/NepriatelskeCisla.java b/Cvicenie06/src/main/java/sk/upjs/sk/NepriatelskeCisla.java
+new file mode 100644
+--- /dev/null	(date 1742468942786)
++++ b/Cvicenie06/src/main/java/sk/upjs/sk/NepriatelskeCisla.java	(date 1742468942786)
+@@ -0,0 +1,57 @@
++package sk.upjs.sk;
++
++import java.util.Arrays;
++
++public class NepriatelskeCisla {
++    private int[] vstup;
++    private int[] vystup;
++    private boolean[] pouzite;
++    int pocet = 0;
++
++    public NepriatelskeCisla(int[] vstup) {
++        this.vstup = vstup;
++        vystup = new int[vstup.length];
++        pouzite = new boolean[vstup.length];
++
++        generuj(0);
++    }
++
++    private void generuj(int odIdx) {
++        if (odIdx == vstup.length) {
++            spracuj();
++            return;
++        }
++
++        for (int i = 0; i < vstup.length; i++) {
++            if (!pouzite[i]) {
++                if (odIdx == 0 || suPriatelske(vstup[i], vystup[odIdx - 1])){
++                    vystup[odIdx] = vstup[i];
++                    pouzite[i] = true;
++                    generuj(odIdx + 1);
++                    pouzite[i] = false;
++                }
++            }
++        }
++    }
++
++    private boolean suPriatelske(int a, int b){
++        return !(a % b == 0 || b % a == 0);
++    }
++
++    private void spracuj() {
++       /* for (int i = 1; i < vystup.length; i++) {
++            if (vystup[i] % vystup[i-1] == 0 || vystup[i - 1] % vstup[i] == 0) {
++                return;
++            }
++        }*/
++
++        pocet++;
++        System.out.println(Arrays.toString(vystup));
++    }
++
++    public static void main(String[] args) {
++        int[] vstup = {3,5,4,8};
++
++        NepriatelskeCisla nc = new NepriatelskeCisla(vstup);
++    }
++}
+Index: Zadanie04-2/src/main/java/sk/upjs/sk/Launcher.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Zadanie04-2/src/main/java/sk/upjs/sk/Launcher.java b/Zadanie04-2/src/main/java/sk/upjs/sk/Launcher.java
+new file mode 100644
+--- /dev/null	(date 1741863730813)
++++ b/Zadanie04-2/src/main/java/sk/upjs/sk/Launcher.java	(date 1741863730813)
+@@ -0,0 +1,11 @@
++package sk.upjs.sk;
++
++import sk.upjs.jpaz2.*;
++
++public class Launcher {
++
++	public static void main(String[] args) {
++		// put your code here
++
++	}
++}
+\ No newline at end of file
+Index: Zadanie04-2/src/main/java/sk/upjs/sk/Uzol.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Zadanie04-2/src/main/java/sk/upjs/sk/Uzol.java b/Zadanie04-2/src/main/java/sk/upjs/sk/Uzol.java
+new file mode 100644
+--- /dev/null	(date 1742118161079)
++++ b/Zadanie04-2/src/main/java/sk/upjs/sk/Uzol.java	(date 1742118161079)
+@@ -0,0 +1,106 @@
++package sk.upjs.sk;
++
++import java.util.*;
++
++public class Uzol {
++    private int hodnota;
++    private Uzol lavy;
++    private Uzol pravy;
++
++    public Uzol(int hodnota, Uzol lavy, Uzol pravy) {
++        this.hodnota = hodnota;
++        this.lavy = lavy;
++        this.pravy = pravy;
++    }
++
++    public int getHodnota() {
++        return hodnota;
++    }
++
++    public void setHodnota(int hodnota) {
++        this.hodnota = hodnota;
++    }
++
++    // Na efektívne vyriešenie problému potrebujeme rekurzívne volania, preto použijeme pomocnú metódu
++    public boolean jeVyvazeny() {
++        return jeVyvazeny(this) != -1;
++    }
++
++    /*
++    * Rekurzívna funkcia, ktorá kontroluje počet prvkov na ľavej a pravej strane. V prípade, že je rozdiel väčší ako 1, vráti (-1), v opačno,
++    * prípade vráti počet prvkov na zadanej strane.
++    *
++    * Analýza časovej zložitosti:
++    * Na každom prvku zavoláme metódu pre jeho ľavého a pravého syna, čo vo výsledku znamená, že sa na každý uzol pozrieme iba raz a v ňom vykonáme
++    * konštantný počet operácií, čo je zložitosť O(n).
++    */
++    private int jeVyvazeny(Uzol uzol) {
++        if (uzol == null) { // báza rekurzie
++            return 0;
++        }
++
++        int lavyCount = jeVyvazeny(uzol.lavy);
++        int pravyCount = jeVyvazeny(uzol.pravy);
++
++        if (lavyCount == -1 || pravyCount == -1 || Math.abs(lavyCount - pravyCount) > 1) {
++            return -1; // Nevyvážený strom
++        }
++
++        return lavyCount + pravyCount + 1;
++    }
++
++    /*
++    * Na to, aby sme mali optimálnu výšku binárneho stromu je potrebné, aby bol koreň medianom zoznamu čísel.
++    * Ak si hodnoty roztriedime (prehodením na list a použitia Dual-Pivot Quicksort-u, ktorý je pod Arrays.sort),
++    * vieme, že sa median nachádza v strede zoznamu a vieme tak rekurzívne vytvárať podstromy.
++    * */
++    public static Uzol vytvorBVS(Set<Integer> hodnoty) {
++        List<Integer> zoradeneHodnoty = new ArrayList<>(hodnoty);
++        Collections.sort(zoradeneHodnoty);
++
++        return vytvorBVS(zoradeneHodnoty, 0, zoradeneHodnoty.size() - 1);
++    }
++
++    private static Uzol vytvorBVS(List<Integer> hodnoty, int zaciatok, int koniec) {
++        if (zaciatok > koniec) { // báza rekurzie
++            return null;
++        }
++
++        int stred = zaciatok + (koniec - zaciatok) / 2;
++        Uzol uzol = new Uzol(hodnoty.get(stred), null, null);
++
++        uzol.lavy = vytvorBVS(hodnoty, zaciatok, stred - 1);
++        uzol.pravy = vytvorBVS(hodnoty, stred + 1, koniec);
++
++        return uzol;
++    }
++
++    @Override
++    public String toString() {
++        StringBuilder sb = new StringBuilder();
++        if (lavy != null)
++            sb.append("(" + lavy.toString() + ") ");
++
++        sb.append(hodnota);
++
++        if (pravy != null)
++            sb.append(" (" + pravy.toString() + ")");
++
++        return sb.toString();
++    }
++
++    /*public static void main(String[] args) {
++        Uzol u4 = new Uzol(4, null, null);
++        Uzol u2 = new Uzol(2, null, null);
++        Uzol u5 = new Uzol(5, null, null);
++        Uzol u3 = new Uzol(3, u5, u4);
++        Uzol u1 = new Uzol(1, u2, u3);
++
++        Set<Integer> hodnoty = new HashSet<>(Arrays.asList(5, 3, 8, 1, 4, 7, 10));
++        Uzol koren = Uzol.vytvorBVS(hodnoty);
++
++        System.out.println(koren);
++
++        System.out.println(u1.jeVyvazeny());
++    }*/
++}
+\ No newline at end of file
+Index: .idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+new file mode 100644
+--- /dev/null	(date 1741869615994)
++++ b/.idea/uiDesigner.xml	(date 1741869615994)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: Zadanie04-2/src/main/java/sk/upjs/sk/Osoba.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Zadanie04-2/src/main/java/sk/upjs/sk/Osoba.java b/Zadanie04-2/src/main/java/sk/upjs/sk/Osoba.java
+new file mode 100644
+--- /dev/null	(date 1742116704123)
++++ b/Zadanie04-2/src/main/java/sk/upjs/sk/Osoba.java	(date 1742116704123)
+@@ -0,0 +1,74 @@
++package sk.upjs.sk;
++
++import java.util.*;
++
++public class Osoba {
++    private String meno;
++    private List<Osoba> deti = new ArrayList<Osoba>();
++
++    public Osoba(String meno) {
++        this.meno = meno;
++    }
++
++    public void pridajDieta(Osoba dieta) {
++        deti.add(dieta);
++    }
++
++    /*
++    * Táto funkcia prehľadáva strom po jednotlivých úrovniach a to s cieľom zastaviť sa nad predposlednej úrovni, pre ktorú zisťujeme počet
++    * jedináčikov a následne sa pozrieť na to, koľko detí ma každá osoba na danej úrovni. Ak má len 1, vieme, že o úroveň nižšie bude +1 jedináčik.
++    *
++    * Na zvolenie si zadanej úrovne používame Queue, kde z aktuálnej úrovne pridáme všetkých priamych potomkov a potom iterujeme cez ne, až dokým nie
++    * sme na požadovanej úrovni.
++    * */
++    public int pocetJedinacikovVGeneracii(int generacia) {
++        if (generacia <= 0)
++            return 0;
++
++        Queue<Osoba> queue = new LinkedList<>();
++        int uroven = 0;
++        int pocet = 0;
++
++        queue.add(this);
++
++        while (generacia-1 != uroven) {
++            int velkost = queue.size();
++
++            for (int i = 0; i < velkost; i++) {
++                Osoba osoba = queue.poll();
++                queue.addAll(osoba.deti);
++            }
++
++            uroven++;
++        }
++
++        while (!queue.isEmpty()) {
++            Osoba osoba = queue.poll();
++            if (osoba.maIbaJednehoSyna())
++                pocet++;
++        }
++
++        return pocet;
++    }
++
++    // Pomocná metóda na zistenie, či má len jedného syna
++    public boolean maIbaJednehoSyna() {
++        return deti.size() == 1;
++    }
++
++    /*public static void main(String[] args) {
++        Osoba o1 = new Osoba("A");
++        Osoba o2 = new Osoba("B");
++        Osoba o3 = new Osoba("C");
++        Osoba o4 = new Osoba("D");
++        Osoba o5 = new Osoba("D");
++        Osoba o6 = new Osoba("D");
++
++        o1.pridajDieta(o2);
++        o1.pridajDieta(o3);
++        o3.pridajDieta(o4);
++        o2.pridajDieta(o5);
++
++        System.out.println(o1.pocetJedinacikovVGeneracii(2));
++    }*/
++}
+\ No newline at end of file
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"Encoding\">\n    <file url=\"file://$PROJECT_DIR$/Cvicenie01/src/main/java\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Cvicenie01/src/main/resources\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Cvicenie02/src/main/java\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Cvicenie02/src/main/resources\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Cvicenie03/src/main/java\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Cvicenie03/src/main/resources\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Cvicenie04/src/main/java\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Cvicenie04/src/main/resources\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Cvicenie05/src/main/java\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Cvicenie05/src/main/resources\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Zadanie01/src/main/java\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Zadanie01/src/main/resources\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Zadanie02/src/main/java\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Zadanie02/src/main/resources\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Zadanie03/src/main/java\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/Zadanie03/src/main/resources\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/src/main/java\" charset=\"UTF-8\" />\n    <file url=\"file://$PROJECT_DIR$/src/main/resources\" charset=\"UTF-8\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+--- a/.idea/encodings.xml	(revision ddcb05b7fa4f2fb01817c700092285476f0f2401)
++++ b/.idea/encodings.xml	(date 1742741408347)
+@@ -11,12 +11,20 @@
+     <file url="file://$PROJECT_DIR$/Cvicenie04/src/main/resources" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/Cvicenie05/src/main/java" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/Cvicenie05/src/main/resources" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/Cvicenie06/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/Cvicenie06/src/main/resources" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/Zadanie01/src/main/java" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/Zadanie01/src/main/resources" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/Zadanie02/src/main/java" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/Zadanie02/src/main/resources" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/Zadanie03/src/main/java" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/Zadanie03/src/main/resources" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/Zadanie04-2/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/Zadanie04-2/src/main/resources" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/Zadanie04/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/Zadanie04/src/main/resources" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/Zadanie05/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/Zadanie05/src/main/resources" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+   </component>
+Index: Cvicenie06/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Cvicenie06/pom.xml b/Cvicenie06/pom.xml
+new file mode 100644
+--- /dev/null	(date 1742465363752)
++++ b/Cvicenie06/pom.xml	(date 1742465363752)
+@@ -0,0 +1,71 @@
++<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
++    <modelVersion>4.0.0</modelVersion>
++    <parent>
++        <groupId>sk.upjs.sk</groupId>
++        <artifactId>PAZ1b</artifactId>
++        <version>1.0-SNAPSHOT</version>
++    </parent>
++
++    <artifactId>Cvicenie06</artifactId>
++    <packaging>jar</packaging>
++
++    <name>Cvicenie06</name>
++
++    <properties>
++        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
++        <maven.compiler.source>1.8</maven.compiler.source>
++        <maven.compiler.target>1.8</maven.compiler.target>
++        <exec.mainClass>sk.upjs.sk.Launcher</exec.mainClass>
++    </properties>
++
++    <dependencies>
++        <dependency>
++            <groupId>sk.upjs</groupId>
++            <artifactId>jpaz2</artifactId>
++            <version>1.1.1</version>
++        </dependency>
++    </dependencies>
++
++    <build>
++        <plugins>
++            <plugin>
++                <groupId>org.apache.maven.plugins</groupId>
++                <artifactId>maven-shade-plugin</artifactId>
++                <version>3.0.0</version>
++                <configuration>
++                    <filters>
++                        <filter>
++                            <artifact>*:*</artifact>
++                            <excludes>
++                                <exclude>META-INF/*.SF</exclude>
++                                <exclude>META-INF/*.DSA</exclude>
++                                <exclude>META-INF/*.RSA</exclude>
++                            </excludes>
++                        </filter>
++                    </filters>
++                </configuration>
++                <executions>
++                    <execution>
++                        <phase>package</phase>
++                        <goals>
++                            <goal>shade</goal>
++                        </goals>
++                        <configuration>
++                            <transformers>
++                                <transformer
++                                        implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
++                                    <mainClass>${exec.mainClass}</mainClass>
++                                </transformer>
++                            </transformers>
++                            <minimizeJar>true</minimizeJar>
++                            <finalName>Cvicenie06</finalName>
++                        </configuration>
++                    </execution>
++                </executions>
++            </plugin>
++        </plugins>
++    </build>
++
++
++</project>
+\ No newline at end of file
