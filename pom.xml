@@ -20,7 +20,9 @@
 		<module>Zadanie04-2</module>
         <module>Cvicenie06</module>
         <module>Zadanie05</module>
-    </modules>
+		<module>Cvicenie07</module>
+		<module>Zadanie06</module>
+	</modules>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
