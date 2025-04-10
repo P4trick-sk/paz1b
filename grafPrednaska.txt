@@ -1,0 +1,3 @@
+KE PO: 30
+PP LM: 45
+PO PP: 50
