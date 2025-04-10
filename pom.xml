@@ -22,7 +22,9 @@
         <module>Zadanie05</module>
 		<module>Cvicenie07</module>
 		<module>Zadanie06</module>
-	</modules>
+        <module>Zadanie07</module>
+        <module>Cvicenie09</module>
+    </modules>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,6 +38,11 @@
 			<groupId>sk.upjs</groupId>
 			<artifactId>jpaz2</artifactId>
 			<version>1.1.1</version>
+		</dependency>
+		<dependency>
+			<groupId>sk.upjs.paz</groupId>
+			<artifactId>graph</artifactId>
+			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 

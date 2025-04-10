@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 07 - 25.3.2025 - Fibonacci, rôzne verzie, Zahradka">
-      <change afterPath="$PROJECT_DIR$/Zadanie06/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie06/src/main/java/sk/upjs/sk/NajdiSlovo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie06/src/main/java/sk/upjs/sk/Rebus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie06/src/main/java/sk/upjs/sk/Vyskrtavacka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rebusy.txt" afterDir="false" />
+    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 09 - 10.4.2025 - Bellman + Dijkstra">
+      <change afterPath="$PROJECT_DIR$/Zadanie07/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie07/src/main/java/sk/upjs/sk/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie07/src/main/java/sk/upjs/sk/Cards2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie07/src/main/java/sk/upjs/sk/Tyber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cestujuci.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23__3__2025_17_49_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23__3__2025_17_49__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -59,9 +61,11 @@
   "keyToString": {
     "Application.AdamSort.executor": "Run",
     "Application.AnalyzatorBuniek.executor": "Run",
+    "Application.Cards.executor": "Run",
     "Application.CipherDifferentiation.executor": "Run",
     "Application.CipherDifferentiationOneDigit.executor": "Run",
     "Application.ContradictionFinder.executor": "Run",
+    "Application.Dijkstra.executor": "Run",
     "Application.Finonacci1.executor": "Run",
     "Application.Finonacci2.executor": "Run",
     "Application.FinonacciKeš.executor": "Run",
@@ -70,6 +74,7 @@
     "Application.Launcher.executor": "Run",
     "Application.Maximum.executor": "Run",
     "Application.MikyPolia.executor": "Run",
+    "Application.NajCesty.executor": "Run",
     "Application.NajdiSlovo.executor": "Run",
     "Application.NepriatelskeCisla.executor": "Run",
     "Application.Osoba.executor": "Run",
@@ -79,6 +84,7 @@
     "Application.Strom.executor": "Run",
     "Application.Sucty.executor": "Run",
     "Application.TestFibonacciho.executor": "Run",
+    "Application.Tyber.executor": "Run",
     "Application.Uzol.executor": "Run",
     "Application.Vyskrtavacka (1).executor": "Run",
     "Application.Vyskrtavacka.executor": "Run",
@@ -112,10 +118,10 @@
       <recent name="sk.upjs.sk" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rebus">
-    <configuration name="NajdiSlovo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.NajdiSlovo" />
-      <module name="Zadanie06" />
+  <component name="RunManager" selected="Application.Dijkstra">
+    <configuration name="Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Cards" />
+      <module name="Zadanie07" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sk.upjs.sk.*" />
@@ -126,9 +132,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rebus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Rebus" />
-      <module name="Zadanie06" />
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Dijkstra" />
+      <module name="Cvicenie09" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sk.upjs.sk.*" />
@@ -139,9 +145,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vyskrtavacka (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Vyskrtavacka" />
-      <module name="Cvicenie06" />
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Launcher" />
+      <module name="Cvicenie09" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sk.upjs.sk.*" />
@@ -152,9 +158,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vyskrtavacka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Vyskrtavacka" />
-      <module name="Zadanie06" />
+    <configuration name="NajCesty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.NajCesty" />
+      <module name="Cvicenie09" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sk.upjs.sk.*" />
@@ -165,9 +171,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zahradka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Zahradka" />
-      <module name="Cvicenie07" />
+    <configuration name="Tyber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.upjs.sk.Tyber" />
+      <module name="Zadanie07" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sk.upjs.sk.*" />
@@ -180,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Rebus" />
-        <item itemvalue="Application.Vyskrtavacka" />
-        <item itemvalue="Application.Vyskrtavacka (1)" />
-        <item itemvalue="Application.NajdiSlovo" />
-        <item itemvalue="Application.Zahradka" />
+        <item itemvalue="Application.Dijkstra" />
+        <item itemvalue="Application.NajCesty" />
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="Application.Tyber" />
+        <item itemvalue="Application.Cards" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +233,9 @@
       <workItem from="1742464255793" duration="3788000" />
       <workItem from="1742740325614" duration="6885000" />
       <workItem from="1742886143337" duration="5299000" />
-      <workItem from="1743340965488" duration="5952000" />
+      <workItem from="1743340965488" duration="6118000" />
+      <workItem from="1743951498433" duration="2906000" />
+      <workItem from="1744274878607" duration="5475000" />
     </task>
     <task id="LOCAL-00001" summary="Cvičenie 11.2.2025 - fraktály">
       <option name="closed" value="true" />
@@ -373,7 +381,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742891523231</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Zadanie 06 - 30.3.2025 - Rebus, NajdiSlovo, Vyskrtavacka">
+      <option name="closed" value="true" />
+      <created>1743407917640</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1743407917640</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Cvičenie 09 - 10.4.2025 - Bellman + Dijkstra">
+      <option name="closed" value="true" />
+      <created>1744280357493</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1744280357493</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,7 +432,9 @@
     <MESSAGE value="Cvičenie 05 - 13.3.2024 - Halda, Strom" />
     <MESSAGE value="Pomocné a testovacie súbory k zadaniu 5" />
     <MESSAGE value="Cvičenie 07 - 25.3.2025 - Fibonacci, rôzne verzie, Zahradka" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 07 - 25.3.2025 - Fibonacci, rôzne verzie, Zahradka" />
+    <MESSAGE value="Zadanie 06 - 30.3.2025 - Rebus, NajdiSlovo, Vyskrtavacka" />
+    <MESSAGE value="Cvičenie 09 - 10.4.2025 - Bellman + Dijkstra" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 09 - 10.4.2025 - Bellman + Dijkstra" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
