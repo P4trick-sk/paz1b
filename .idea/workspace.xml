@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Cvičenie 09 - 10.4.2025 - Bellman + Dijkstra">
-      <change afterPath="$PROJECT_DIR$/Zadanie07/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie07/src/main/java/sk/upjs/sk/Cards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie07/src/main/java/sk/upjs/sk/Cards2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie07/src/main/java/sk/upjs/sk/Tyber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cestujuci.txt" afterDir="false" />
+    <list default="true" id="08196f2e-81e3-4796-a50b-3de0d25e0c70" name="Changes" comment="Zadanie 07 - 6.4.2025 - Karty a Tybe">
+      <change afterPath="$PROJECT_DIR$/Cvicenie10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cvicenie10/src/main/java/sk/upjs/sk/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cvicenie10/src/main/java/sk/upjs/sk/NajKostra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafititititititititititititititititi.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23__3__2025_17_49_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23__3__2025_17_49__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cvicenie09/src/main/java/sk/upjs/sk/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cvicenie09/src/main/java/sk/upjs/sk/Dijkstra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,55 +55,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AdamSort.executor": "Run",
-    "Application.AnalyzatorBuniek.executor": "Run",
-    "Application.Cards.executor": "Run",
-    "Application.CipherDifferentiation.executor": "Run",
-    "Application.CipherDifferentiationOneDigit.executor": "Run",
-    "Application.ContradictionFinder.executor": "Run",
-    "Application.Dijkstra.executor": "Run",
-    "Application.Finonacci1.executor": "Run",
-    "Application.Finonacci2.executor": "Run",
-    "Application.FinonacciKeš.executor": "Run",
-    "Application.Launcher (1).executor": "Run",
-    "Application.Launcher (2).executor": "Run",
-    "Application.Launcher.executor": "Run",
-    "Application.Maximum.executor": "Run",
-    "Application.MikyPolia.executor": "Run",
-    "Application.NajCesty.executor": "Run",
-    "Application.NajdiSlovo.executor": "Run",
-    "Application.NepriatelskeCisla.executor": "Run",
-    "Application.Osoba.executor": "Run",
-    "Application.QuickSort.executor": "Run",
-    "Application.Rebus.executor": "Run",
-    "Application.SpajanyZoznam.executor": "Run",
-    "Application.Strom.executor": "Run",
-    "Application.Sucty.executor": "Run",
-    "Application.TestFibonacciho.executor": "Run",
-    "Application.Tyber.executor": "Run",
-    "Application.Uzol.executor": "Run",
-    "Application.Vyskrtavacka (1).executor": "Run",
-    "Application.Vyskrtavacka.executor": "Run",
-    "Application.Zahradka.executor": "Run",
-    "Application.Zatvorky.executor": "Debug",
-    "Application.Zlozitost.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/patrick_sk/IdeaProjects/PAZ1b",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdamSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnalyzatorBuniek.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cards.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CipherDifferentiation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CipherDifferentiationOneDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContradictionFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dijkstra.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Finonacci1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Finonacci2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinonacciKeš.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Launcher (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Launcher (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MikyPolia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NajCesty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NajdiSlovo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NepriatelskeCisla.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Osoba.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rebus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpajanyZoznam.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sucty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestFibonacciho.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tyber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Uzol.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vyskrtavacka (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vyskrtavacka.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zahradka.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zatvorky.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Zlozitost.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/patrick_sk/IdeaProjects/PAZ1b&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -235,7 +233,8 @@
       <workItem from="1742886143337" duration="5299000" />
       <workItem from="1743340965488" duration="6118000" />
       <workItem from="1743951498433" duration="2906000" />
-      <workItem from="1744274878607" duration="5475000" />
+      <workItem from="1744274878607" duration="5521000" />
+      <workItem from="1744698386407" duration="3261000" />
     </task>
     <task id="LOCAL-00001" summary="Cvičenie 11.2.2025 - fraktály">
       <option name="closed" value="true" />
@@ -397,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744280357493</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Zadanie 07 - 6.4.2025 - Karty a Tybe">
+      <option name="closed" value="true" />
+      <created>1744280395584</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744280395584</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +441,8 @@
     <MESSAGE value="Cvičenie 07 - 25.3.2025 - Fibonacci, rôzne verzie, Zahradka" />
     <MESSAGE value="Zadanie 06 - 30.3.2025 - Rebus, NajdiSlovo, Vyskrtavacka" />
     <MESSAGE value="Cvičenie 09 - 10.4.2025 - Bellman + Dijkstra" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cvičenie 09 - 10.4.2025 - Bellman + Dijkstra" />
+    <MESSAGE value="Zadanie 07 - 6.4.2025 - Karty a Tybe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 07 - 6.4.2025 - Karty a Tybe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
