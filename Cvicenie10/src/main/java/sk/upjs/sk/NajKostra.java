@@ -29,6 +29,8 @@ public class NajKostra {
                 }
             }
 
+            q.remove(vyber);
+
             double min = Double.POSITIVE_INFINITY;
             for (Vertex vrchol : q) {
                 if (vzdialenosti.get(vrchol) < min) {
@@ -36,8 +38,6 @@ public class NajKostra {
                     vyber = vrchol;
                 }
             }
-
-            q.remove(vyber);
         }
 
         for (Vertex vrchol : predchodca.keySet()) {
